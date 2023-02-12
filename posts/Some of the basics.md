@@ -29,7 +29,7 @@ A mission as a request of some user for information he needs covered. Often this
 
 From here we can form a mission of covering a large area at a certain resolution - say 2.5 meters per pixel or something.
 
-Now that we have a mission, we need to be able to send it to the satellites. We might go into this more in depth later, but lets say that an order is a part of the mission that a satellite constellation can take. For instance, we can divide the county into several smaller areas which can be covered in a single scan by a satellite, and then send each of these segments as a separate order. Together they fulfil the [User's](#users) mission.
+Now that we have a mission, we need to be able to send it to the satellites. We might go into this more in depth later, but lets say that an order is a part of the mission that a satellite constellation can take. For instance, we can divide the country into several smaller areas which can be covered in a single scan by a satellite, and then send each of these segments as a separate order. Together they fulfill the [User's](#users) mission.
 
 ### Product
 The product of an [observation satellite](#observation-satellite) is the image that returns following an order. This is what the user sees at the end.
